@@ -1,1 +1,1 @@
-- 👋 Hi, here to learn and build.
+- 👋 Hi, here to learn.
